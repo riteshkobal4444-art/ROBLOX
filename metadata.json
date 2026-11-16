@@ -1,0 +1,6 @@
+{
+  "name": "StoryForge",
+  "description": "Transform any story idea into a cinematic 3D Roblox-style animated storytelling video directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
